@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/Customer-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Inventory-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Order-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Config-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Gateway-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/crm/pom.xml" />
+        <option value="$PROJECT_DIR$/admin/pom.xml" />
+        <option value="$PROJECT_DIR$/RHCSI/pom.xml" />
+        <option value="$PROJECT_DIR$/Project/pom.xml" />
+        <option value="$PROJECT_DIR$/rh/pom.xml" />
+        <option value="$PROJECT_DIR$/projet/pom.xml" />
+        <option value="$PROJECT_DIR$/finance/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,5 @@
+package com.csidigital.projet.shared.enumeration;
+
+public enum Status {
+    STILL_PENDING,REFUSED,ACCEPTED
+}

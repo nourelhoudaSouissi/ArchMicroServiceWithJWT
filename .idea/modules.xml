@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Config-Server/Config-Server.iml" filepath="$PROJECT_DIR$/Config-Server/Config-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Customer-Server/Customer-Server.iml" filepath="$PROJECT_DIR$/Customer-Server/Customer-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Discovery/Discovery.iml" filepath="$PROJECT_DIR$/Discovery/Discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway-Server/Gateway-Server.iml" filepath="$PROJECT_DIR$/Gateway-Server/Gateway-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inventory-Server/Inventory-Server.iml" filepath="$PROJECT_DIR$/Inventory-Server/Inventory-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Order-Server/Order-Server.iml" filepath="$PROJECT_DIR$/Order-Server/Order-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/admin.iml" filepath="$PROJECT_DIR$/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crm/crm.iml" filepath="$PROJECT_DIR$/crm/crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projet/projet.iml" filepath="$PROJECT_DIR$/Projet/projet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finance/projet (1).iml" filepath="$PROJECT_DIR$/finance/projet (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/rh/rh.iml" filepath="$PROJECT_DIR$/rh/rh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projet/rh (1).iml" filepath="$PROJECT_DIR$/projet/rh (1).iml" />
+    </modules>
+  </component>
+</project>
